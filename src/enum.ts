@@ -1,4 +1,4 @@
-//enaum : set of fixed string literal stays in one place
+//enum : set of fixed string literal stays in one place
 
 //type UserRoles = 'Admin' | 'Editor' | 'Viewer';
 enum UserRoles {
